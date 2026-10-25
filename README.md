@@ -57,10 +57,10 @@ These findings highlight monthly revenue changes, the importance of internationa
 
 ## Project Deliverables
 
-- Power BI dashboard (`.pbix`)
-- Project README
-- Project report
-- Screenshots of the four report pages
+- [Power BI Dashboard (.pbix)](Tata_Data_Visualisation.pbix)
+- [Project Report (.docx)](Tata_Online_Retail_2011_Project_Report.docx)
+- [Dashboard Screenshots](screenshots/)
+- Project documentation and key findings are available in this README.
 
 ## Conclusion
 
