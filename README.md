@@ -66,6 +66,20 @@ These findings highlight monthly revenue changes, the importance of internationa
 
 This project demonstrates how Power BI can be used to transform retail transaction data into meaningful visualisations. The report supports exploration of sales trends, market performance, customer contribution, and geographic demand, providing a foundation for further business analysis.
 
+## Dashboard Screenshots
+
+### 1. Monthly Revenue Analysis — 2011
+![Monthly Revenue Analysis](screenshots/Q1_Monthly_Revenue.png)
+
+### 2. Top 10 Countries by Revenue and Quantity Sold
+![Country Analysis](screenshots/Q2_Country_Analysis.png)
+
+### 3. Top 10 Customers by Revenue
+![Top Customers](screenshots/Q3_Top_Customers.png)
+
+### 4. Product Demand by Country
+![Geographic Demand](screenshots/Q4_Geographic_Demand.png)
+
 ## Author
 
 **Khalil Azennoud**  
